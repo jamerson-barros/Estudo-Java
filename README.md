@@ -5,7 +5,7 @@ Repositorio dedicado a registrar minha evolução durante o estudo da linguagem 
 
 ### Tecnologias Usadas no Aprendizado
 
-#### Linguagem em estudo
+#### Linguagem
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Sistemas Operacionais
