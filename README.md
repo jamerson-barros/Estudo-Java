@@ -1,5 +1,5 @@
 # Estudo de Java
-Repositorio dedicado ao estudo da linguagem Java de forma independente.
+Repositorio dedicado à registrar minha evolução durante o estudo da linguagem de programação Java de forma independente.
 
 ## Tecnologias usadas
 - OpenJDK 21.0.10
