@@ -8,7 +8,7 @@ Repositorio dedicado à registrar minha evolução durante o estudo da linguagem
 - Acode
 - GitHub 
 
-OBS: Utilizo o telefone Android para praticar quando estou em ônibus e locais distante no notebook. Dessa forma posso praticar o uso do Git para mecher no mesmo codigo tanto pelo Termux quanto no Intelij.
+OBS: Utilizo o telefone Android para praticar quando estou em ônibus e locais distante no notebook. Dessa forma posso praticar também o uso do Git para mecher no mesmo codigo tanto pelo Termux quanto no Intelij.
 
 ## Demonstração
 
