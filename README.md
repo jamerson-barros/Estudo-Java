@@ -13,7 +13,13 @@ OBS: Utilizo o telefone Android para praticar quando estou em ônibus e locais d
 ## Demonstração
 ![login](https://media.tenor.com/JNrPF3XuHXIAAAAM/java-duke.gif)
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring](https://img.shields.io/badge/Spring-Boot-green)
+### Tecnologias Usadas
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Termux](https://img.shields.io/badge/termux-%23000000.svg?style=for-the-badge&logo=termux&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 
