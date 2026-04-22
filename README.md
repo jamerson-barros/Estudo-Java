@@ -21,5 +21,5 @@ Repositorio dedicado a registrar minha evolução durante o estudo da linguagem 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-OBS: Utilizo o telefone Android para praticar quando estou em ônibus e locais distante do notebook. Dessa forma posso praticar também o uso do Git para mecher no mesmo codigo tanto pelo Termux quanto no Intelij.
+***OBS:** Utilizo o telefone Android para praticar quando estou em ônibus e locais distante do notebook. Dessa forma posso praticar também o uso do Git para mecher no mesmo codigo tanto pelo Termux quanto no Intelij.*
 
